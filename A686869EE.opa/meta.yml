@@ -1,0 +1,19 @@
+id: A686869EE
+title: A Prayer for Auspiciousness
+type: translation
+pechas:
+- IDB17BA34
+- I3DE40B64
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:29:37.503665
+  last_modified_at: 2023-01-04 11:29:37.503675
+  collections:
+  - Apang Tertön Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  IDB17BA34/3A4E: 00AE
+  I3DE40B64/59CA: 00AE

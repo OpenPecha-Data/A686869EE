@@ -1,0 +1,27 @@
+segment_sources:
+  IDB17BA34:
+    type: origin_type
+    relation: translation
+    base: 3A4E
+    lang: en
+  I3DE40B64:
+    type: origin_type
+    relation: translation
+    base: 59CA
+    lang: bo
+segment_pairs:
+  ebb210151a88404e87c0b8a7505206c4:
+    IDB17BA34: 58ff196d3b7945a8b643d4fe0784cc16
+    I3DE40B64: 492f8423e02243669549a5ca46040a8f
+  8afaac8640cf4fd098a553d0abe2bd5f:
+    IDB17BA34: 3e3870f7fbb24ff9a5eff8d3f64b3dfd
+    I3DE40B64: 3545ffc333ad4257ba9e79dc1fc9b7ed
+  465fe3818c024e03859e7dfee0e17f5b:
+    IDB17BA34: d56be5c13c9b4d91aaa6baa098214536
+    I3DE40B64: ef24ca90ec2c4536babbe4f43ac1ede0
+  b39caf645ac744e29368c901c48d69cb:
+    IDB17BA34: 3dc753f67e454df8ab72468c5ae43393
+    I3DE40B64: 27d86c8d3ecb4632b0fa2f2b8cc4a7f0
+  5d5dfe203a574e25ad0ba2a5cee5709d:
+    IDB17BA34: 3f22008bcd554d968c8ada146a886840
+    I3DE40B64: af55ed9c26694776a4ed80b26afbe1bb
